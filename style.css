@@ -1,0 +1,106 @@
+
+*{
+    padding: 0;margin: 0;text-decoration: none;
+    box-sizing: border-box; font-family: "Playfair Display", serif, sans-serif;
+    scroll-behavior: smooth;
+}
+
+.containar{ max-width: 100vw;height: 100vh;
+}
+            
+ .sidebar
+{width: 23vw;height: 100vh;background-color: rgb(17, 10, 58);;
+    vertical-align: top; display: inline-block;padding-top: 30px;
+text-align: center;
+}
+.sidebar img{
+    width: 130px;height: 130px;border-radius: 50% 100%;border: 5px solid wheat;
+}
+
+a {color: wheat;display: block;padding-top: 5px;
+
+}
+a:hover{
+    color: rgb(97, 224, 199);
+}
+.fa-brands:hover{
+    color: rgb(97, 124, 199);
+}
+
+
+.hero{
+    width: 76%;height: 100%;vertical-align: top;
+    display: inline-block;
+    overflow: auto;
+padding: 80px 20px;
+}
+ h1{
+    color: rgb(17, 10, 58);font-size: 50px;padding-top: 10px;padding-bottom: 20px;
+}
+#tay{
+    color: rgb(108, 38, 38);font-size: 50px;padding-left:  10px;
+}
+
+
+P{
+    font-size: small;display: inline-block;padding-top: 10PX;
+}
+span{
+    color:rgb(207, 45, 45) ;
+}
+.para{
+    padding-bottom: 100px;
+}
+.fa-brands{
+    font-size: 40px;color:rgb(17, 10, 58) ;padding-top: 20px;padding-bottom: 20px;
+}
+.icons{
+   padding-top: 40px;padding-bottom: 40px;font-size: small;
+ 
+}
+.heading{
+    padding-top: 40px;padding-bottom: 20px;
+}
+h2 span{    padding-left: 180px;font-size: small;color: brown;
+}
+
+h6 span{
+    padding-left: 290px;font-size: small;color: brown;
+}
+img{
+    width: 20px;height: 30px;font-size: small;vertical-align: middle;margin: 0 auto;
+}
+
+.fa-solid {
+    padding-right: 20px ;
+}
+
+ 
+
+
+ 
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
