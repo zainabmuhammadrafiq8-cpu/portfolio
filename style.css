@@ -9,15 +9,15 @@
 }
             
  .sidebar
-{width: 23vw;height: 100vh;background-color: rgb(17, 10, 58);;
-    vertical-align: top; display: inline-block;padding-top: 30px;
+{width: 23%;height: 100%;background-color: rgb(17, 10, 58);;
+    vertical-align: top; display: inline-block;padding-top: 50px;
 text-align: center;
 }
 .sidebar img{
-    width: 80%;height: 50%;border-radius: 50% 100%;border: 5px solid wheat;
+    width: 60%;height: 40%;border-radius: 50% 100%;border: 5px solid wheat;
 }
 
-a {color: wheat;display: block;padding-top: 1%;
+a {color: wheat;display: block;padding-top: 5%;font-size: larger;
 
 }
 a:hover{
@@ -37,15 +37,15 @@ padding: 80px 20px ;
 
 }
  h1{
-    color: rgb(17, 10, 58);font-size:50px;padding-bottom: 10px;
+    color: rgb(17, 10, 58);font-size:90px;padding-bottom: 10px;
 }
 #tay{
-    color: rgb(108, 38, 38);font-size: 50px;padding-left:  10%;
+    color: rgb(108, 38, 38);font-size: 90px;padding-left:  10%;
 }
 
 
 P{
-    font-size: small;display: inline-block;padding-top: 10PX;
+    font-size: large;display: inline-block;padding-top: 10PX;
 }
 span{
     color:rgb(207, 45, 45) ;
@@ -54,7 +54,7 @@ span{
     padding-bottom: 30%;
 }
 .fa-brands{
-    font-size: 40PX;color:rgb(17, 10, 58) ;padding-top: 5%;padding-bottom: 10%;
+    font-size: 60PX;color:rgb(17, 10, 58) ;padding-top:5%;padding-bottom: 10%;
 }
 .heading{
     padding-bottom: 5%;
@@ -65,11 +65,11 @@ h2 span{    padding-left: 60%;font-size: small;color: brown;
 .skills{
     padding-top: 30%;padding-bottom: 5%;
 }
-h6 span{
-    padding-left: 290px;font-size: small;color: brown;
+h5 span{
+    padding-left: 70%;font-size: small;color: brown;
 }
 img{
-    width: 20px;height: 30px;font-size: small;vertical-align: middle;margin: 0 auto;
+    width: 20px;height: 30px;font-size: large;vertical-align: middle;margin: 0 auto;
 }
 
 .fa-solid {
